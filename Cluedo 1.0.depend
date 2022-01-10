@@ -1,0 +1,1620 @@
+# depslib dependency file v1.0
+1635173737 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\main.cpp
+	<iostream>
+	<allegro.h>
+
+1635174539 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\case.cpp
+	"Case.h"
+
+1635178642 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\case.h
+
+1635177613 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\arme.cpp
+	"Arme.h"
+
+1635182195 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\arme.h
+	<Carte.h>
+
+1635182301 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+
+1635176847 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\carte.cpp
+	"Carte.h"
+
+1635181398 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\hypothese.cpp
+	"Hypothese.h"
+
+1635182287 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\hypothese.h
+	<Suspect.h>
+
+1635182195 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1635182147 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\accusation.cpp
+	"Accusation.h"
+
+1635182311 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+	<Lieu.h>
+
+1635178397 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1635178397 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1635177340 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1635183294 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+
+1635183294 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\unecase.h
+
+1635174406 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+
+1635183332 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1635182194 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\jeu.cpp
+	"Jeu.h"
+
+1635182359 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\jeu.h
+	<vector>
+	<PlateauJeu.h>
+	<Joueur.h>
+
+1635183379 c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\include\joueur.h
+	<UneCase.h>
+	<vector>
+	<Carte.h>
+
+1635174928 source:c:\users\yannp\documents\yann\ing2 info\cluedo 1.0\src\joueur.cpp
+	"Joueur.h"
+
+1635419758 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<Piece.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635414727 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1635232111 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\hypothese.h
+	<../header.h>
+
+1635232098 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\suspect.h
+	<../header.h>
+
+1635414396 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+
+1635234066 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1635233935 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\arme.h
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1635409920 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\jeu.h
+	<vector>
+
+1635411530 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1635414748 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+
+1635410858 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\unecase.h
+	<../header.h>
+
+1635326063 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\joueur.cpp
+	"Joueur.h"
+	<Compte.h>
+
+1635194736 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1635197092 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1635232098 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\piece.h
+	<../header.h>
+
+1635411479 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+
+1635194736 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1635419818 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+
+1635419851 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\sous_prog_principal.cpp
+	<windows.h>
+
+1635419851 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<Piece.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1635233836 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+
+1635234061 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\enveloppe.h
+
+1635258595 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\compte.h
+	<iostream>
+
+1635324309 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+
+1635324531 c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\include\de.h
+
+1635326063 source:c:\users\yannp\downloads\cluedo_1.0_2\cluedo_1.0\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1635439141 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<Piece.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+	<windows.h>
+	<cstdlib>
+	<unistd.h>
+
+1635414727 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1635232111 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\hypothese.h
+	<../header.h>
+
+1635439095 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<Piece.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1635437425 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\carte.h
+	<iostream>
+
+1635233935 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\arme.h
+
+1635409920 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\jeu.h
+	<vector>
+
+1635440727 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+
+1635438558 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\unecase.h
+	<../header.h>
+
+1635258595 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\compte.h
+	<iostream>
+
+1635437870 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\de.h
+
+1635234066 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1635232098 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\piece.h
+	<../header.h>
+
+1635438392 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1635232098 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\suspect.h
+	<../header.h>
+
+1635439662 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\sous_prog_principal.cpp
+	<windows.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+
+1635232098 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635232098 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1635232098 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1635324309 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+
+1635233836 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+
+1635234061 c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\include\enveloppe.h
+
+1635232098 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1635232098 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1635441398 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<UneCase.h>
+
+1635194736 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1635197092 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1635439006 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+
+1635194736 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1635440219 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+
+1635437870 source:c:\users\fontur\downloads\cluedo_1.2\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1635502525 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+	<windows.h>
+	<cstdlib>
+	<unistd.h>
+
+1635414727 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1635232111 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\hypothese.h
+	<../header.h>
+
+1635494590 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1635437425 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\carte.h
+	<iostream>
+
+1635233935 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\arme.h
+
+1635409920 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\jeu.h
+	<vector>
+
+1635501062 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+
+1635502389 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\unecase.h
+
+1635258595 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\compte.h
+	<iostream>
+
+1635437870 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\de.h
+
+1635234066 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1635493420 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\piece.h
+
+1635498181 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1635495613 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1635495576 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\sous_prog_principal.cpp
+	<windows.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1635324309 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+
+1635437870 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1635233836 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+
+1635234061 c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\include\enveloppe.h
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1635232098 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1635194736 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1635197092 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1635502482 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+
+1635194736 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1635503748 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+
+1635503837 source:c:\users\yannp\downloads\cluedo_1.30\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+
+1635680762 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+
+1635675609 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1635675637 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\hypothese.h
+
+1635490990 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1635680046 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1635230335 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\arme.h
+
+1635670117 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\jeu.h
+	<vector>
+
+1635675619 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+
+1635675336 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\unecase.h
+
+1635594291 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\compte.h
+	<iostream>
+
+1635595763 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\de.h
+
+1635670045 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1635230466 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1635492013 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1635673676 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+
+1635228498 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635228498 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1635680063 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\carte.cpp
+	<Carte.h>
+
+1635599802 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1635434270 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1635230236 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+
+1635680038 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+
+1635228498 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1635670094 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1635191136 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1635197092 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1635493420 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\piece.h
+
+1635675491 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+
+1635191136 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1635675395 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1635675395 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+
+1635680038 c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1635680740 source:c:\users\fontur\downloads\cluedo_ge1.30\cluedo_1.30\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+
+1637831405 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637831433 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\arme.h
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\jeu.h
+	<vector>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1637831497 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\compte.h
+	<iostream>
+
+1637831497 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\de.h
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1637831405 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+
+1637831799 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1637831952 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1637831952 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1637831992 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	"time.h"
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1637831992 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1637832147 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+
+1637832147 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1637832148 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\case.cpp
+	"Case.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\case.h
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\include\piece.h
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_2.0\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638023867 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637883372 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\jeu.h
+	<vector>
+
+1637917997 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+
+1638020719 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1637973682 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\compte.h
+	<iostream>
+
+1637831497 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\de.h
+
+1638022819 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1637880924 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1637831405 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+
+1637831799 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\arme.h
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1637880452 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\case.cpp
+	"Case.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\case.h
+
+1637973682 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<fstream>
+
+1637831952 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1637881256 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	<fstream>
+	"time.h"
+
+1637831992 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1637920556 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+	<fstream>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\include\piece.h
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638020857 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+	<fstream>
+
+1637832147 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1637832148 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_9.1_recup\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1638102928 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+	<fstream>
+	<string>
+
+1638022819 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1638020719 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1638035544 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+	<Calepin.h>
+
+1637883372 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1638034254 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\compte.h
+	<iostream>
+
+1637831497 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\de.h
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1637831799 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\arme.h
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\jeu.h
+	<vector>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\arme.cpp
+	<../header.h>
+
+1637880452 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1637831878 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\case.cpp
+	"Case.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\case.h
+
+1638032895 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1637831952 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1637881256 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	<fstream>
+	"time.h"
+
+1637880924 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1637831992 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1638035456 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+	<Calepin.h>
+	<fstream>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\lieu.cpp
+	"Lieu.h"
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\piece.cpp
+	"Piece.h"
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\piece.h
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638020857 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+	<fstream>
+
+1637832147 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\suspect.cpp
+	"Suspect.h"
+
+1637832148 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1638032991 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\include\calepin.h
+	<vector>
+	<allegro.h>
+
+1638103616 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+
+1638032991 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo_25.0_recup\cluedo 1.0\src\calepin.cpp
+	"Calepin.h"
+	<stdio.h>
+	<iostream>
+
+1638121505 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+
+1637831405 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831527 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637883372 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1637831527 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\jeu.h
+	<vector>
+
+1638121534 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+	<Calepin.h>
+
+1638020719 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1638034254 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\compte.h
+	<iostream>
+
+1638121505 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\de.h
+	<allegro.h>
+	<vector>
+
+1638022819 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1637831705 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1638032991 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\calepin.h
+	<vector>
+	<allegro.h>
+
+1637880924 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1638106984 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+	<fstream>
+	<string>
+
+1637831799 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831405 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\arme.h
+
+1637831705 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1638110967 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\calepin.cpp
+	"Calepin.h"
+	<stdio.h>
+	<iostream>
+
+1637880452 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1638032895 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1638121505 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1637881256 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	<fstream>
+	"time.h"
+
+1638106017 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1638121505 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+	<Calepin.h>
+	<fstream>
+	<winalleg.h>
+
+1637832115 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638020857 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+	<fstream>
+
+1638105394 source:c:\users\fontur\downloads\cluedo_25.0_recup\cluedo_25.0_recup\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1638139549 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+	<string>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637883372 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1637831527 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\jeu.h
+	<vector>
+
+1638121534 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+	<Calepin.h>
+
+1638020719 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1638136109 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\compte.h
+	<iostream>
+
+1638121505 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\de.h
+	<allegro.h>
+	<vector>
+
+1638022819 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1638032991 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\calepin.h
+	<vector>
+	<allegro.h>
+
+1637880924 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1638136140 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+	<fstream>
+	<string>
+
+1637831799 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831405 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\arme.h
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1638110967 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\calepin.cpp
+	"Calepin.h"
+	<stdio.h>
+	<iostream>
+
+1637880452 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1638138836 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+
+1638122335 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1637881256 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	<fstream>
+	"time.h"
+
+1638106017 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1638138171 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+	<Calepin.h>
+	<fstream>
+	<winalleg.h>
+	<string>
+
+1637832115 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638020857 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+	<fstream>
+
+1638105394 source:c:\users\ilian\desktop\inge\inge2\informatique\projet\cluedo 30.0\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+
+1638139696 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<Accusation.h>
+	<Carte.h>
+	<Jeu.h>
+	<Joueur.h>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<allegro.h>
+	<winalleg.h>
+	<cstdlib>
+	<unistd.h>
+	<Pioche.h>
+	<Enveloppe.h>
+	<string>
+
+1637831405 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\accusation.h
+	<Hypothese.h>
+
+1637831527 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\hypothese.h
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1637883372 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\carte.h
+	<iostream>
+	<allegro.h>
+	<stack>
+	<vector>
+
+1637831527 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\jeu.h
+	<vector>
+
+1638121534 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\joueur.h
+	<vector>
+	<UneCase.h>
+	<Carte.h>
+	<Compte.h>
+	<De.h>
+	<PlateauJeu.h>
+	<Hypothese.h>
+	<Pioche.h>
+	<Calepin.h>
+
+1638020719 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\unecase.h
+	<iostream>
+
+1638136109 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\compte.h
+	<iostream>
+
+1638121505 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\de.h
+	<allegro.h>
+	<vector>
+
+1638022819 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\plateaujeu.h
+	<vector>
+
+1637831705 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\pioche.h
+	"Carte.h"
+	<algorithm>
+
+1638032991 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\calepin.h
+	<vector>
+	<allegro.h>
+
+1637880924 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\enveloppe.h
+	"Pioche.h"
+	<Hypothese.h>
+
+1638136140 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\sous_prog_principal.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<PlateauJeu.h>
+	<UneCase.h>
+	<Joueur.h>
+	<fstream>
+	<string>
+
+1637831799 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\accusation.cpp
+	<../header.h>
+
+1635490990 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\header.h
+	<Hypothese.h>
+	<Accusation.h>
+	<Carte.h>
+	<Arme.h>
+	<Jeu.h>
+	<Joueur.h>
+	<Lieu.h>
+	<PlateauJeu.h>
+	<Suspect.h>
+	<UneCase.h>
+
+1637831405 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\arme.h
+
+1637831705 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\lieu.h
+	<Carte.h>
+
+1637831705 c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\include\suspect.h
+	<Carte.h>
+
+1638110967 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\calepin.cpp
+	"Calepin.h"
+	<stdio.h>
+	<iostream>
+
+1637880452 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\carte.cpp
+	<../header.h>
+
+1638138836 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\compte.cpp
+	"Compte.h"
+	<Joueur.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+
+1638122335 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\de.cpp
+	"De.h"
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1637881256 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\enveloppe.cpp
+	"Enveloppe.h"
+	<fstream>
+	"time.h"
+
+1638106017 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\hypothese.cpp
+	<../header.h>
+
+1637832115 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\jeu.cpp
+	<../header.h>
+
+1638138171 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\joueur.cpp
+	<Joueur.h>
+	<Compte.h>
+	<allegro.h>
+	<cstdlib>
+	<unistd.h>
+	<Calepin.h>
+	<fstream>
+	<winalleg.h>
+	<string>
+
+1637832115 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\pioche.cpp
+	"Pioche.h"
+	<stack>
+	<vector>
+	<Joueur.h>
+
+1638020857 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\plateaujeu.cpp
+	"PlateauJeu.h"
+	<UneCase.h>
+	<iostream>
+	<Joueur.h>
+	<fstream>
+
+1638105394 source:c:\users\fontur\downloads\cluedo 32.0\cluedo 30.0\cluedo 1.0\src\unecase.cpp
+	"UneCase.h"
+	<iostream>
+	<allegro.h>
+

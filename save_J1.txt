@@ -1,0 +1,22 @@
+2
+7 19 0
+9
+Epee en bois
+A
+Stan
+P
+Le baton de la verite
+A
+Kyle
+P
+Shuriken
+A
+Chef
+P
+L'eglise
+L
+Maison de Kenny
+L
+Le restaurant chinois
+L
+2
